@@ -7,9 +7,6 @@ using namespace std;
 
 int main(int argc, char** args){
 
-
-	cout << (true & true) << endl;
-
 	time_t t;
 	time(&t);
 	srand(t);
