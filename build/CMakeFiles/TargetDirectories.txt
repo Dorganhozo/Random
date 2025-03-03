@@ -1,0 +1,3 @@
+/data/data/com.termux/files/home/Test/cmaker/build/CMakeFiles/test.dir
+/data/data/com.termux/files/home/Test/cmaker/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/Test/cmaker/build/CMakeFiles/rebuild_cache.dir
