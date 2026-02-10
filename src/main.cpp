@@ -6,7 +6,6 @@
 using namespace std;
 
 int main(int argc, char** args){
-
 	time_t t;
 	time(&t);
 	srand(t);
